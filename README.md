@@ -14,7 +14,7 @@
 
 ### - 40,471 unpaid reviews
 
-### - Number of Vine reviews with more than 5 stars is 48
+### - Number of Vine reviews with 5 stars is 48
 
 ### - There are 15,663 unpaid reviews that give 5 star
 
